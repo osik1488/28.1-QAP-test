@@ -1,0 +1,11 @@
+
+pytest-selenium
+termcolor
+allure-python-commons
+
+requests
+selenium
+pytest
+urllib3
+webdriver_manager
+fake_useragent
